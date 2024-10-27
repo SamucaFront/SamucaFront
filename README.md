@@ -1,4 +1,4 @@
-<h2 align="left">Hello Worl, I'm Samuel, be very Welcome</h2>
+<h2 align="left">Hello World, I'm Samuel, be very Welcome</h2>
 
 ###
 
