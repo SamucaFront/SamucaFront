@@ -11,7 +11,9 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/bd/ef/19/bdef19014f3c97a7a35d2b0bf05505c3.gif"  />
+<div align="center">
+  <img height="150" src="https://i.pinimg.com/originals/bd/ef/19/bdef19014f3c97a7a35d2b0bf05505c3.gif"  />
+</div>
 
 ###
 
