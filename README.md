@@ -1,4 +1,4 @@
-<h2 align="left">Hello World! My name is Samuel, I'm 19 years old, and I'm a Software Engineering student from Brazil with a strong interest in web development and technology. I'm constantly learning new skills, especially in HTML, CSS, and JavaScript, while also improving my English, as I have a passion for languages.</h2>
+<h2 align="left">Hello World! Be very Welcome. My name is Samuel, I'm 19 years old, and I'm a Software Engineering student from Brazil with a strong interest in web development and technology. I'm constantly learning new skills, especially in HTML, CSS, and JavaScript, while also improving my English, as I have a passion for languages.</h2>
 
 ###
 
