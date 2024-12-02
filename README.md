@@ -23,16 +23,24 @@
 
 #
 <div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SamucaFront&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
-  <br>
-  <a href="https://github.com/SamucaFront/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SamucaFront&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
-  </a>
+<h2 align="left"></h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SamucaFront&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamucaFront&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
 
+<br clear="both">
+
+<div align="center">
+  <img height="120" src="https://i.pinimg.com/originals/bd/ef/19/bdef19014f3c97a7a35d2b0bf05505c3.gif"  />
+</div>
+
+###
 ###
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamucaFront/SamucaFront/output/github-contribution-grid-snake-dark.svg">
