@@ -20,8 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
   <img width="8" />
 </div>
-
-#
 <div style="text-align: center;" align="center">
 <h2 align="left"></h2>
 
