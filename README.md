@@ -29,19 +29,6 @@
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=0D1117)&nbsp;
 
 
-<div align="center">
-  <br>
-  <p align="center"><b>Visitors Count</b></p>  
-  <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/SamucaFront/count.svg" />
-  </p> 
-  <br>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1e90ff&height=120&section=footer"/>
-
-
-
 ###
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamucaFront/SamucaFront/output/github-contribution-grid-snake-dark.svg">
