@@ -7,10 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamucaFront&layout=compact&hide_border=true&title_color=1e90ff&text_color=1e90ff&bg_color=0d1117" />
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SamucaFront&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
 ###
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/b9/27/af/b927afc3e4f52f1694e955e8480d0f33.gif" />
