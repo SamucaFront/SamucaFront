@@ -13,7 +13,7 @@
 
 ###
 
-<img align="right" height="150" src="🎋 __ 🍰 [Goals Anime Gif] ⸝⸝ ˚˳ 🍊 ꙳ ੭.gif" />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 
 ###
@@ -39,14 +39,13 @@
 
 ---
 
-### Pacman Contribution Graph (GIF animado)
+
 <div align="center">
   <img src="./pacman-contribution-graph.gif" alt="Pacman Contribution Graph" width="80%" />
 </div>
 
 <br clear="both">
 
-### Pacman Contribution Graph (SVG por tema)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamucaFront/SamucaFront/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamucaFront/SamucaFront/output/pacman-contribution-graph.svg">
