@@ -3,10 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1e90ff&size=35&center=true&vCenter=true&width=1000&lines=Hello+everyone,+my+name+is+Samuel.;I'm+20+years+old.;And+I'm+a+software+engineering+student.;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SamucaFront&show_icons=true&count_private=true&hide_border=true&title_color=1e90ff&icon_color=1e90ff&text_color=c9d1d9&bg_color=0d1117" alt="SamucaFront GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SamucaFront&show_icons=true&hide_border=true&title_color=1e90ff&icon_color=1e90ff&text_color=c9d1d9&bg_color=0d1117" alt="SamucaFront GitHub Stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamucaFront&layout=compact&hide_border=true&title_color=1e90ff&text_color=1e90ff&bg_color=0d1117" alt="Top Languages" />
 </div>
-
 <br>
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/b9/27/af/b927afc3e4f52f1694e955e8480d0f33.gif" alt="Anime coding gif" />
