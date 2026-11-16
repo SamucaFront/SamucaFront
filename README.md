@@ -50,13 +50,6 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamucaFront&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamucaFront&layout=compact&langs_count=5&theme=dracula&locale=pt-br" height="150" alt="languages graph" />
-</div>
-
-<br>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamucaFront/SamucaFront/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamucaFront/SamucaFront/output/pacman-contribution-graph.svg">
